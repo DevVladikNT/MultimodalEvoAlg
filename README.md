@@ -1,6 +1,6 @@
 # SequentialNishing
 
-My realization of multimodal evolutionary algorithm called sequential nishing.
+My realization of multimodal evolutionary algorithm called sequential nishing in python3.
 
 ## Goal
 
@@ -18,7 +18,7 @@ An interesting algorithm called [sequential nishing](https://direct.mit.edu/evco
 
 Disadvantage of the sequential niche is the sequential approach, that is, one run per peak, which is inefficient for real-time applications.
 
-## Result
+## Results
 
 Max points and their values are printed in console.
 
