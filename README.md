@@ -20,6 +20,10 @@ Disadvantage of the sequential niche is the sequential approach, that is, one ru
 
 ## Result
 
+Max points and their values are printed in console.
+
+![Console Output](pictures/console.png)
+
 In animation below you can see how this algorithm works.
 
 ![Animation](pictures/animation.gif)
